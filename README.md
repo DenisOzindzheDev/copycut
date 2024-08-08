@@ -12,17 +12,6 @@ I always want to save my passwords to system where i can easily access them
 
 ## Usage
 
-### Last 10 keys
-
-To list last 10 copied from clipboard use the following command : 
-```bash
-copycut last 
->asd 
->mimimim
->meow
-```
-Use arrow to navigate and  select one of them to make it clipboard last item
-
 ### Bindings
 
 #### Get Binding
